@@ -2,7 +2,7 @@ type/docs:
 - all:
   - changed-files:
     - any-glob-to-any-file: ['docs/*', 'operator/docs/*', '**/README.md']
-    - all-globs-to-all-files: ['!vendor/**/README.md']
+    - all-globs-to-any-files: ['!vendor/**/README.md']
 sig/operator:
 - changed-files:
   - any-glob-to-any-file: ['operator/**/*']
