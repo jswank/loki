@@ -1,5 +1,5 @@
 # Loki Docker Logging Driver
-
+2024-01-11
 ## Overview
 
 Docker logging driver plugins extends Docker's logging capabilities. You can use Loki Docker logging driver plugin to send
