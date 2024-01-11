@@ -1,3 +1,4 @@
+2024-01-11
 
 **NOTE**: This fork is currently being maintained for use in the promtail agent of the [Loki](https://github.com/grafana/loki) project.
 
